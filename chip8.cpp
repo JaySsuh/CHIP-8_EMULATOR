@@ -1,4 +1,5 @@
 #include <fstream>
+#include <cstring>
 #include "chip8.h"
 using namespace std;
 
