@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Users/suhja/Downloads/SDL2-devel-2.26.5-VC/SDL2-2.26.5/include"
+                "C:/msys64/mingw64/include",
+                "C:/msys64/mingw64/include/SDL2"
             ],
             "defines": [
                 "_DEBUG",
